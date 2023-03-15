@@ -13,4 +13,4 @@ Create a new separator and name it **[NoDelete] Dragonborn - Hardcore Addon**. P
   - Download and install the main file and rename it to **[NoDelete] No Killmoves - No Killcams - No Killbites**
 
 - [Survival Mode Prompt Removed](https://www.nexusmods.com/skyrimspecialedition/mods/59049)
-  - Download and install the main file titled "Survival Mode - Enable By Default" and rename it to **[NoDelete] Survival Mode - Enable By Default**
+  - Download and install the "Survival Mode - Enable By Default" file and rename it to **[NoDelete] Survival Mode - Enable By Default**

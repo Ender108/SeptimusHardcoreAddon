@@ -12,7 +12,7 @@ Create a new separator and name it **[NoDelete] Dragonborn - Hardcore Addon**. P
 - [No Killmoves - No Killcams - No Killbites](https://www.nexusmods.com/skyrimspecialedition/mods/13395) disables melee finishing moves, ranged/magic slow-motion kills, and dragon bite-and-throw attacks. The goal is to have more intense fights with less cheap deaths.
   - Download and install the main file and rename it to **[NoDelete] No Killmoves - No Killcams - No Killbites**
 
-- [Survival Mode Prompt Removed](https://www.nexusmods.com/skyrimspecialedition/mods/59049)
+- [Survival Mode Prompt Removed](https://www.nexusmods.com/skyrimspecialedition/mods/59049) will remove the survival mode prompt and enable it by default.
   - Download and install the "Survival Mode - Enable By Default" main file and rename it to **[NoDelete] Survival Mode - Enable By Default**
 
 - [Locational Encounter Zones](https://www.nexusmods.com/skyrimspecialedition/mods/85212)

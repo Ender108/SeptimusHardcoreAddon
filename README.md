@@ -25,4 +25,4 @@ Create a new separator and name it **[NoDelete] Dragonborn - Hardcore Addon**. P
   - Download and install the main file and rename it to **[NoDelete] Know Your Enemy Redux - Armors**
 
 7.) [Know Your Enemy Redux - Expansion Patches](https://www.nexusmods.com/skyrimspecialedition/mods/56705) is a collection of SPID ini files to give KYE Redux's traits to creature types added by other mods.
-  - Download and install the "Know Your Enemy Redux - Expansion Patches All-In-One FOMOD" main file. In the FOMOD, just keep clicking next then click install.
+  - Download and install the "Know Your Enemy Redux - Expansion Patches All-In-One FOMOD" main file and rename it to **[NoDelete] Know Your Enemy Redux - Expansion Patches**. In the FOMOD, just keep clicking next then click install.

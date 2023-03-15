@@ -21,5 +21,5 @@ Create a new separator and name it **[NoDelete] Dragonborn - Hardcore Addon**. P
 - [Know Your Enemy Redux](https://www.nexusmods.com/skyrimspecialedition/mods/55045?tab=description) uses a trait system to change the resistances and weaknesses of creatures to magic (fire/frost/shock), physical damage (blade/blunt/axes/arrows), poison and disease. 
   - Download and install the main file and rename it to **[NoDelete] Know Your Enemy Redux**
 
-- [Know Your Enemy Redux - Armors](https://www.nexusmods.com/skyrimspecialedition/mods/55203)
+- [Know Your Enemy Redux - Armors](https://www.nexusmods.com/skyrimspecialedition/mods/55203) uses a trait system to change the resistances and weaknesses of armor to magic (fire/frost/shock), and physical damage (blade/blunt/axes/arrows). 
   - Download and install the main file and rename it to **[NoDelete] Know Your Enemy Redux - Armors**

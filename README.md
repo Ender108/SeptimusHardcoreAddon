@@ -26,3 +26,10 @@ Create a new separator and name it **[NoDelete] Dragonborn - Hardcore Addon**. P
 
 7.) [Know Your Enemy Redux - Expansion Patches](https://www.nexusmods.com/skyrimspecialedition/mods/56705) is a collection of SPID ini files to give KYE Redux's traits to creature types added by other mods.
   - Download and install the "Know Your Enemy Redux - Expansion Patches All-In-One FOMOD" main file and rename it to **[NoDelete] Know Your Enemy Redux - Expansion Patches**. In the FOMOD, just keep clicking next then click install.
+
+8.) [Know Your Enemies and Armors - Inspect Redone](https://www.nexusmods.com/skyrimspecialedition/mods/86979) changes the inspect spells from Know Your Enemies/Armors to novice level aimed alteration spells that can be found alongside other novice alteration spells 
+  - Download and install the main file and rename it to **[NoDelete] Know Your Enemies and Armors - Inspect Redone**
+
+9.) [King-Priest - Enhanced Dragon Priests](https://www.nexusmods.com/skyrimspecialedition/mods/59652) makes encounters with Dragon Priests a much more challenging experience balanced for high-level play. 
+  - Download and install the main file and rename it to **[NoDelete] King-Priest - Enhanced Dragon Priests**
+  - Download and install the two optional files and rename them to **[NoDelete] King-Priest - Abyss Add-On** and **[NoDelete] King-Priest - Wyrmstooth Patch**

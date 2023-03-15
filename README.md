@@ -13,4 +13,13 @@ Create a new separator and name it **[NoDelete] Dragonborn - Hardcore Addon**. P
   - Download and install the main file and rename it to **[NoDelete] No Killmoves - No Killcams - No Killbites**
 
 - [Survival Mode Prompt Removed](https://www.nexusmods.com/skyrimspecialedition/mods/59049)
-  - Download and install the "Survival Mode - Enable By Default" file and rename it to **[NoDelete] Survival Mode - Enable By Default**
+  - Download and install the "Survival Mode - Enable By Default" main file and rename it to **[NoDelete] Survival Mode - Enable By Default**
+
+- [Locational Encounter Zones](https://www.nexusmods.com/skyrimspecialedition/mods/85212)
+  - Download and install the main file and rename it to **[NoDelete] Locational Encounter Zones**
+
+- [Know Your Enemy Redux](https://www.nexusmods.com/skyrimspecialedition/mods/55045?tab=description)
+  - Download and install the main file and rename it to **[NoDelete] Know Your Enemy Redux**
+
+- [Know Your Enemy Redux - Armors](https://www.nexusmods.com/skyrimspecialedition/mods/55203)
+  - Download and install the main file and rename it to **[NoDelete] Know Your Enemy Redux - Armors**

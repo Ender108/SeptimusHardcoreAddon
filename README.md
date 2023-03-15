@@ -1,0 +1,2 @@
+# Dragonborn - Hardcore Addon
+

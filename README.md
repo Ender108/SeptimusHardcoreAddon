@@ -18,7 +18,7 @@ Create a new separator and name it **[NoDelete] Dragonborn - Hardcore Addon**. P
 - [Locational Encounter Zones](https://www.nexusmods.com/skyrimspecialedition/mods/85212) is a SKSE plugin which makes enemies guarding a location the same level as the ones inside.
   - Download and install the main file and rename it to **[NoDelete] Locational Encounter Zones**
 
-- [Know Your Enemy Redux](https://www.nexusmods.com/skyrimspecialedition/mods/55045?tab=description)
+- [Know Your Enemy Redux](https://www.nexusmods.com/skyrimspecialedition/mods/55045?tab=description) uses a trait system to change the resistances and weaknesses of creatures to magic (fire/frost/shock), physical damage (blade/blunt/axes/arrows), poison and disease. 
   - Download and install the main file and rename it to **[NoDelete] Know Your Enemy Redux**
 
 - [Know Your Enemy Redux - Armors](https://www.nexusmods.com/skyrimspecialedition/mods/55203)

@@ -15,7 +15,7 @@ Create a new separator and name it **[NoDelete] Dragonborn - Hardcore Addon**. P
 - [Survival Mode Prompt Removed](https://www.nexusmods.com/skyrimspecialedition/mods/59049) will remove the survival mode prompt and enable it by default.
   - Download and install the "Survival Mode - Enable By Default" main file and rename it to **[NoDelete] Survival Mode - Enable By Default**
 
-- [Locational Encounter Zones](https://www.nexusmods.com/skyrimspecialedition/mods/85212)
+- [Locational Encounter Zones](https://www.nexusmods.com/skyrimspecialedition/mods/85212) is a SKSE plugin which makes enemies guarding a location the same level as the ones inside.
   - Download and install the main file and rename it to **[NoDelete] Locational Encounter Zones**
 
 - [Know Your Enemy Redux](https://www.nexusmods.com/skyrimspecialedition/mods/55045?tab=description)

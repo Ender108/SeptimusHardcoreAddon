@@ -32,4 +32,6 @@ Create a new separator and name it **[NoDelete] Septimus - Hardcore Addon**. Pla
   - Download and install the Audio Overhaul for Skyrim patch and rename it to **Dragon War - Audio Overhaul for Skyrim Patch**
   - Download and install the Wyrmstooth patch and rename it to **Dragon War - Wyrmstooth Patch**
 
-x.) Septimus - Hardcore Uncapper INI caps the max level to 50 and does not grant any carry weight bonus on level up. This will encourage the player to put some thought into selecting perks and to rely heavily on equipment, spells, and enchantments to increase their carry weight.
+9.) [Lawlessness - A Bandit Overhaul](www.notreleasedyetgetfuckednerd.com)
+
+x.) Septimus - Hardcore Uncapper INI caps the max level to 50 and does not grant any carry weight bonus on level up. This will encourage the player to put some thought into selecting perks and to rely heavily on equipment, spells, and enchantments to increase their carry weight

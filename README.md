@@ -34,4 +34,7 @@ Create a new separator and name it **[NoDelete] Septimus - Hardcore Addon**. Pla
 
 9.) [Lawlessness - A Bandit Overhaul](www.notreleasedyetgetfuckednerd.com)
 
-x.) Septimus - Hardcore Uncapper INI caps the max level to 50 and does not grant any carry weight bonus on level up. This will encourage the player to put some thought into selecting perks and to rely heavily on equipment, spells, and enchantments to increase their carry weight
+x.) Septimus - Hardcore Uncapper INI
+- No more perks after level 50
+- Health, Magicka, and Stamina gain on level up is reduced from 10 points to 5 points after level 50
+- No carryweight gain on level up

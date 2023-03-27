@@ -18,12 +18,18 @@ Create a new separator and name it **[NoDelete] Septimus - Hardcore Addon**. Pla
 
 5.) [King-Priest - Enhanced Dragon Priests](https://www.nexusmods.com/skyrimspecialedition/mods/59652) makes encounters with Dragon Priests a much more challenging experience balanced for high-level play. 
   - Download and install the main file and rename it to **[NoDelete] King-Priest - Enhanced Dragon Priests**
-  - Download and install the two optional files and rename them to **[NoDelete] King-Priest - Abyss Add-On** and **[NoDelete] King-Priest - Wyrmstooth Patch**
+  - Download and install the Abyss patch and rename it to **[NoDelete] King-Priest - Abyss Add-On**
+  - Download and install the Wyrmstooth patch and rename it to **[NoDelete] King-Priest - Wyrmstooth Patch**
 
 6.) [Cannibal Draugr on Solstheim](https://www.nexusmods.com/skyrimspecialedition/mods/21238) makes Solstheim Draugr distinct from those on the mainland, reflecting their eternal cannibalism as described in TES3: Bloodmoon.
   - Download and install the main file and rename it to **[NoDelete] Cannibal Draugr on Solstheim**
 
 7.) [The Dragon Cult - A Draugr Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/81422) is a comprehensive overhaul for Draugr, the undead creatures mostly found in Nordic Crypts around Skyrim, protecting ancient treasures and their lords. With it, Draugr are more challenging and varied than even before.
   - Download and install the main file, click install in the FOMOD, and rename it to **[NoDelete] The Dragon Cult - A Draugr Overhaul**
+
+8.) [Dragon War - A Dragon Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/51310) is a complete and lightweight overhaul of Skyrim’s dragons, designed to improve the overall experience of dragon fights.
+  - Download and install the main file and rename it to **[NoDelete] Dragon War - A Dragon Overhaul**
+  - Download and install the Audio Overhaul for Skyrim patch and rename it to **Dragon War - Audio Overhaul for Skyrim Patch**
+  - Download and install the Wyrmstooth patch and rename it to **Dragon War - Wyrmstooth Patch**
 
 x.) Septimus - Hardcore Uncapper INI caps the max level to 50 and does not grant any carry weight bonus on level up. This will encourage the player to put some thought into selecting perks and to rely heavily on equipment, spells, and enchantments to increase their carry weight.

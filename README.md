@@ -8,7 +8,7 @@ Create a new separator and name it **[NoDelete] Septimus - Hardcore Addon**. Pla
   - Download and install the main file and rename it to **[NoDelete] No Saving in Combat**
 
 2.) [No Killmoves - No Killcams - No Killbites](https://www.nexusmods.com/skyrimspecialedition/mods/13395) disables melee finishing moves, ranged/magic slow-motion kills, and dragon bite-and-throw attacks. The goal is to have more intense fights with less cheap deaths.
-  - Download and install the main file and rename it to **[NoDelete] No Killmoves - No Killcams - No Killbites**
+  - Download and install the ESL main file and rename it to **[NoDelete] No Killmoves - No Killcams - No Killbites**
 
 3.) [Survival Mode Prompt Removed](https://www.nexusmods.com/skyrimspecialedition/mods/59049) will remove the survival mode prompt and enable it by default.
   - Download and install the "Survival Mode - Enable By Default" main file and rename it to **[NoDelete] Survival Mode - Enable By Default**

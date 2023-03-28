@@ -32,7 +32,11 @@ Create a new separator and name it **[NoDelete] Septimus - Hardcore Addon**. Pla
   - Download and install the Audio Overhaul for Skyrim patch and rename it to **Dragon War - Audio Overhaul for Skyrim Patch**
   - Download and install the Wyrmstooth patch and rename it to **Dragon War - Wyrmstooth Patch**
 
-9.) [Lawlessness - A Bandit Overhaul](www.notreleasedyetgetfuckednerd.com)
+9.) [Don't Eat Spell Tomes](https://www.nexusmods.com/skyrimspecialedition/mods/20521) allows mods to implement custom behavior when the player uses spell tomes, disabling the vanilla behavior of simply eating the book and instantly learning the spell.
+  - Download and install the main file, click next and install in the FOMOD, and rename it to **[NoDelete] Don't Eat Spell Tomes**
+
+10.) [Challenging Spell Learning](https://www.nexusmods.com/skyrimspecialedition/mods/20521) turns spell learning into a 10 second magical trial with trial difficulty proportional to the cost of the spell. Pass the trial and you learn the spell. Fail and you suffer the consequences.
+  - Download and install the main file and rename it to **[NoDelete] Challenging Spell Learning**
 
 x.) Septimus - Hardcore Uncapper INI
 - No more perks after level 50

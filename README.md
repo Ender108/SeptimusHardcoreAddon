@@ -39,6 +39,9 @@ Create a new separator and name it **[NoDelete] Septimus - Hardcore Addon**. Pla
   - Download and install the main file and rename it to **[NoDelete] Challenging Spell Learning**
   - If you want a better animation for spell learning, download and install [Challenging Spell Learning Alternate Animation](https://www.nexusmods.com/skyrimspecialedition/mods/57574?tab=description) and rename to **[NoDelete] Challenging Spell Learning Alternate Animation**
 
+11.)[Legion - A Bruma Encounter Zone Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/60848) is an encounter zone overhaul for Beyond Skyrim: Bruma that increases the difficulty of dungeons by re-leveling the enemies.
+  - Download and install the main file and rename it to **[NoDelete] Legion - A Bruma Encounter Zone Overhaul**
+
 x.) Septimus - Hardcore Uncapper INI
 - No more perks after level 50
 - Health, Magicka, and Stamina gain on level up is reduced from 10 points to 5 points after level 50

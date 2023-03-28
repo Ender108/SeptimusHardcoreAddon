@@ -42,6 +42,9 @@ Create a new separator and name it **[NoDelete] Septimus - Hardcore Addon**. Pla
 11.)[Legion - A Bruma Encounter Zone Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/60848) is an encounter zone overhaul for Beyond Skyrim: Bruma that increases the difficulty of dungeons by re-leveling the enemies.
   - Download and install the main file and rename it to **[NoDelete] Legion - A Bruma Encounter Zone Overhaul**
 
+12.) [Enemy Resistance Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/59394) adds lore-friendly, intuitive, and balanced adjustments to enemy resistances.
+  - Download and install the main file and rename it to **[NoDelete] Enemy Resistance Tweaks**
+
 x.) Septimus - Hardcore Uncapper INI
 - No more perks after level 50
 - Health, Magicka, and Stamina gain on level up is reduced from 10 points to 5 points after level 50

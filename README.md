@@ -37,6 +37,7 @@ Create a new separator and name it **[NoDelete] Septimus - Hardcore Addon**. Pla
 
 10.) [Challenging Spell Learning](https://www.nexusmods.com/skyrimspecialedition/mods/20521) turns spell learning into a 10 second magical trial with trial difficulty proportional to the cost of the spell. Pass the trial and you learn the spell. Fail and you suffer the consequences.
   - Download and install the main file and rename it to **[NoDelete] Challenging Spell Learning**
+  - If you want a better animation for spell learning, download and install [Challenging Spell Learning Alternate Animation](https://www.nexusmods.com/skyrimspecialedition/mods/57574?tab=description) and rename to **[NoDelete] Challenging Spell Learning Alternate Animation**
 
 x.) Septimus - Hardcore Uncapper INI
 - No more perks after level 50

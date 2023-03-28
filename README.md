@@ -45,6 +45,9 @@ Create a new separator and name it **[NoDelete] Septimus - Hardcore Addon**. Pla
 12.) [Enemy Resistance Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/59394) adds lore-friendly, intuitive, and balanced adjustments to enemy resistances.
   - Download and install the main file and rename it to **[NoDelete] Enemy Resistance Tweaks**
 
+13.) [Scarcity SE - Less Loot Mod](https://www.nexusmods.com/skyrimspecialedition/mods/8647) reduces the amount of loot found in the world and reduces the amount of enchanted items held by merchants.
+  - Download and install the main file, choose 4x Loot Rarity and 4x Merchant Item Rarity in the FOMOD, and rename it to **[NoDelete] Scarcity SE - Less Loot Mod**
+
 x.) Septimus - Hardcore Uncapper INI
 - No more perks after level 50
 - Health, Magicka, and Stamina gain on level up is reduced from 10 points to 5 points after level 50

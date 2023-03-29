@@ -54,7 +54,7 @@ Create a new separator and name it **[NoDelete] Septimus - Hardcore Addon**. Pla
  - Download and install from archive in the top left of Mod Organizer 2
 
 
-## Post-Install
+# Post-Install
 
 The left pane of Mod Organizer 2 should look like this after installation.
 ![image](https://user-images.githubusercontent.com/19737384/228576607-9246fb54-8dbb-4048-a1de-9004c9a845f5.png)

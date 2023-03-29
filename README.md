@@ -62,4 +62,4 @@ The left pane of Mod Organizer 2 should look like this after installation.
 The right pane of Mod Organizer 2 should look like this after installation. Load all of plugins from this addon **ABOVE** DynDOLOD.esp.
 ![image](https://user-images.githubusercontent.com/19737384/228579091-e7b5ea92-f30f-4920-a1d9-5f6395f3122f.png)
 
-
+And that's it! Go enjoy dying many times over.

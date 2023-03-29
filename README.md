@@ -4,11 +4,7 @@
 ### Works with the current 1.5.1 version of Septimus.
 
 # Mod Installation
-Create a new separator and name it **[NoDelete] Septimus - Hardcore Addon**
-
-Place it under the **THE DANGER ZONE** separator
-
-Install all the mods below in top to bottom order
+Create a new separator and name it **[NoDelete] Septimus - Hardcore Addon**. Place it under the **THE DANGER ZONE** separator. Install all the mods below in top to bottom order
 
 1.) [No Saving in Combat](https://www.nexusmods.com/skyrimspecialedition/mods/29914) is a very simple mod that, you guessed it, disables saving in combat.
   - Download and install the main file and rename it to **[NoDelete] No Saving in Combat**

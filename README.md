@@ -1,6 +1,8 @@
 # Septimus - Hardcore Addon
 This is an optional addon for GuitarNinja's Septimus modlist that will greatly increase the difficulty.
 
+Works with the current 1.5.1 version of Septimus.
+
 ## Mod Installation
 Create a new separator and name it **[NoDelete] Septimus - Hardcore Addon**. Place it under the **THE DANGER ZONE** separator. Install all the mods below in top to bottom order.
 

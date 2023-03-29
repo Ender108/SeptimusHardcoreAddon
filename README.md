@@ -52,3 +52,8 @@ Create a new separator and name it **[NoDelete] Septimus - Hardcore Addon**. Pla
 
 14.) [Septimus - Hardcore Addon Patch](https://github.com/Ender108/SeptimusHardcoreAddon/blob/main/%5BNoDelete%5D%20Septimus%20-%20Hardcore%20Addon%20Patch.7z) ensures compatibility with the rest of the Septimus modlist.
  - Download and install from archive in the top left of Mod Organizer 2
+
+
+The MO2 left pane should look like this after completing the mod installation:
+![image](https://user-images.githubusercontent.com/19737384/228576607-9246fb54-8dbb-4048-a1de-9004c9a845f5.png)
+

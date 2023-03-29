@@ -1,5 +1,5 @@
 # Septimus - Hardcore Addon
-This is an optional addon for GuitarNinja's Septimus modlist that will greatly increase the difficulty.
+### This is an optional addon for GuitarNinja's Septimus modlist that will greatly increase the difficulty.
 
 ### Works with the current 1.5.1 version of Septimus.
 
@@ -54,6 +54,6 @@ Create a new separator and name it **[NoDelete] Septimus - Hardcore Addon**. Pla
  - Download and install from archive in the top left of Mod Organizer 2
 
 
-The MO2 left pane should look like this after completing the mod installation:
+The left pane in Mod Ogranizer 2 should look like this after completing the mod installation:
 ![image](https://user-images.githubusercontent.com/19737384/228576607-9246fb54-8dbb-4048-a1de-9004c9a845f5.png)
 

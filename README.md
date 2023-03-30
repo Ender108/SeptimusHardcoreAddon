@@ -3,6 +3,8 @@ This is an optional addon for GuitarNinja's Septimus modlist that will greatly i
 
 Works with the current 1.5.1 version of Septimus.
 
+This addon requires a NEW SAVE.
+
 # Mod Installation
 Create a new separator and name it **[NoDelete] Septimus - Hardcore Addon**. Place it under the **THE DANGER ZONE** separator. Install all the mods below in top to bottom order
 
@@ -46,6 +48,15 @@ Create a new separator and name it **[NoDelete] Septimus - Hardcore Addon**. Pla
 
 12.) [Enemy Resistance Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/59394) adds lore-friendly, intuitive, and balanced adjustments to enemy resistances.
   - Download and install the main file and rename it to **[NoDelete] Enemy Resistance Tweaks**
+
+13.) [Lawless - A Bandit Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/88080) is a complete overhaul to bandit enemies with new enemy types, more leveled tiers, and improved spells and stats.
+  - Download and install the main file and rename to **[NoDelete] Lawless - A Bandit Overhaul**
+  - Download and install the Expanded Enemy Coverage Addon file and rename to **[NoDelete] Lawless - Expanded Enemy Coverage Addon**
+  - Download and install the Simonrim file and rename to **[NoDelete] Lawless - Simonrim Patch**
+  - Download and install the CC AA Integration Patch file and rename to **[NoDelete] Lawless - CC AA Integration Patch**
+  - Download and install the Simonrim Dark Elf Voices Patch file and rename to **[NoDelete] Lawless - Simonrim Dark Elf Voices Patch**
+  - Download and install the Simonrim Kachunk Patch file and rename to **[NoDelete] Lawless - Simonrim Kachunk Patch**
+  - Download and install the Tamrielic Distribution Patch file and rename to **[NoDelete] Lawless - Tamrielic Distribution Patch**
 
 13.) [Scarcity SE - Less Loot Mod](https://www.nexusmods.com/skyrimspecialedition/mods/8647) reduces the amount of loot found in the world and reduces the amount of enchanted items held by merchants.
   - Download and install the main file, choose 4x Loot Rarity and 4x Merchant Item Rarity in the FOMOD, and rename it to **[NoDelete] Scarcity SE - Less Loot Mod**

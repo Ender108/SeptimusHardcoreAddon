@@ -61,7 +61,7 @@ Create a new separator and name it **[NoDelete] Septimus - Hardcore Addon**. Pla
 13.) [Scarcity SE - Less Loot Mod](https://www.nexusmods.com/skyrimspecialedition/mods/8647) reduces the amount of loot found in the world and reduces the amount of enchanted items held by merchants.
   - Download and install the main file, choose 4x Loot Rarity and 4x Merchant Item Rarity in the FOMOD, and rename it to **[NoDelete] [23] Scarcity SE - Less Loot Mod**
 
-14.) [Septimus - Hardcore Uncapper INI](https://github.com/Ender108/SeptimusHardcoreAddon/blob/main/%5BNoDelete%5D%20Septimus%20-%20Hardcore%20Addon%20INI.7z) changes the default uncapper settings: No more perks after level 50. Health, Magicka, and Stamina gain on level up is reduced from 10 points to 5 points after level 50. No carryweight gain on level up.
+14.) [Septimus - Hardcore Addon INI](https://github.com/Ender108/SeptimusHardcoreAddon/blob/main/Septimus%20-%20Hardcore%20Addon%20INI.7z) changes the default uncapper settings: No more perks after level 50. Health, Magicka, and Stamina gain on level up is reduced from 10 points to 5 points after level 50. No carryweight gain on level up.
   - Download and install from archive in the top left of Mod Organizer 2
 
 15.) [Septimus - Hardcore Addon Patch](https://github.com/Ender108/SeptimusHardcoreAddon/blob/main/%5BNoDelete%5D%20Septimus%20-%20Hardcore%20Addon%20Patch.7z) ensures compatibility with the rest of the Septimus modlist.

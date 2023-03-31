@@ -1,6 +1,7 @@
 # Septimus Hardcore Addon Changelog
 
 ## Version 1.1
+This update is save safe.
 ### Removed
 - No Killmoves - No Killcams - No Killbites (breaks main quest)
 ### Updated

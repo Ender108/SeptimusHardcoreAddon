@@ -33,7 +33,7 @@ Create a new separator and name it **[NoDelete] Septimus - Hardcore Addon**. Pla
   - Download and install the Audio Overhaul for Skyrim patch and rename it to **[NoDelete] [09] Dragon War - Audio Overhaul for Skyrim Patch**
   - Download and install the Wyrmstooth patch and rename it to **[NoDelete] [10] Dragon War - Wyrmstooth Patch**
 
-7.) [Don't Eat Spell Tomes](https://www.nexusmods.com/skyrimspecialedition/mods/20521) allows mods to implement custom behavior when the player uses spell tomes, disabling the vanilla behavior of simply eating the book and instantly learning the spell.
+7.) [Don't Eat Spell Tomes](https://www.nexusmods.com/skyrimspecialedition/mods/43095) allows mods to implement custom behavior when the player uses spell tomes, disabling the vanilla behavior of simply eating the book and instantly learning the spell.
   - Download and install the main file, click next and install in the FOMOD, and rename it to **[NoDelete] [11] Don't Eat Spell Tomes**
 
 8.) [Challenging Spell Learning](https://www.nexusmods.com/skyrimspecialedition/mods/20521) turns spell learning into a 10 second magical trial with trial difficulty proportional to the cost of the spell. Pass the trial and you learn the spell. Fail and you suffer the consequences.

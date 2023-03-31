@@ -44,7 +44,7 @@ Create a new separator and name it **[NoDelete] Septimus - Hardcore Addon**. Pla
   - Download and install the main file and rename it to **[NoDelete] [13] Arena - An Encounter Zone Overhaul**
 
 10.) [Legion - A Bruma Encounter Zone Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/60848) is an encounter zone overhaul for Beyond Skyrim: Bruma that increases the difficulty of dungeons by re-leveling the enemies.
- - Download and install the main file and rename it to **[NoDelete] [14] Legion - A Bruma Encounter Zone Overhaul**
+ - Download and install the Mid-game main file and rename it to **[NoDelete] [14] Legion - A Bruma Encounter Zone Overhaul**
 
 11.) [Enemy Resistance Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/59394) adds lore-friendly, intuitive, and balanced adjustments to enemy resistances.
   - Download and install the main file and rename it to **[NoDelete] [15] Enemy Resistance Tweaks**

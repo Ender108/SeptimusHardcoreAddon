@@ -1,5 +1,10 @@
 # Septimus Hardcore Addon Changelog
 
+## Version 1.2
+This update is NOT save safe.
+### Updated
+- Dragon War installation instructions for the latest version 3.0
+
 ## Version 1.1
 This update is save safe.
 ### Removed

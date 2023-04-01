@@ -1,4 +1,4 @@
-# Septimus Hardcore Addon Changelog
+# Changelog - Septimus Hardcore Addon 
 
 ## Version 1.2
 This update is NOT save safe.

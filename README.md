@@ -2,7 +2,7 @@
 
 [Changelog](https://github.com/Ender108/SeptimusHardcoreAddon/blob/main/CHANGELOG.md)
 
-[Link to Septimus README](https://github.com/Lost-Outpost/septimus)
+[Link to Septimus README](https://github.com/Lost-Outpost/septimus/blob/main/README.md)
 
 This is an optional addon for GuitarNinja's Septimus modlist that will greatly increase the difficulty.
 

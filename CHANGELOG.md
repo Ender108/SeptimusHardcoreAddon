@@ -6,6 +6,7 @@ This update is NOT save safe.
 - The Dragon Cult - Expanded
 ### Updated
 - Dragon War installation instructions for the latest version 3.0
+- Septimus - Harcore Addon Patch
 
 ## Version 1.1
 This update is save safe.

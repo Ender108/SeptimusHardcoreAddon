@@ -1,5 +1,9 @@
 # Changelog - Septimus Hardcore Addon 
 
+## Version 1.3
+### Updated
+- Lawless installation instructions for latest update
+
 ## Version 1.2
 This update is NOT save safe.
 ### Added

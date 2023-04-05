@@ -2,7 +2,7 @@
 
 ## Version 1.3
 ### Updated
-- Lawless installation instructions for latest update
+- Lawless installation instructions for latest update 1.2
 
 ## Version 1.2
 This update is NOT save safe.

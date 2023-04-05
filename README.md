@@ -56,21 +56,22 @@ Create a new separator and name it **[NoDelete] Septimus - Hardcore Addon**. Pla
 
 14.) [Lawless - A Bandit Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/88080) is a complete overhaul to bandit enemies with new enemy types, more leveled tiers, and improved spells and stats.
   - Download and install the main file and rename to **[NoDelete] [16] Lawless - A Bandit Overhaul**
-  - Download and install the Expanded Enemy Coverage Addon file and rename to **[NoDelete] [17] Lawless - Expanded Enemy Coverage Addon**
-  - Download and install the Simonrim file and rename to **[NoDelete] [18] Lawless - Simonrim Patch**
+  - Download and install the Expanded Enemy Coverage Addon file and rename it to **[NoDelete] [17] Lawless - Expanded Enemy Coverage Addon**
+  - Download and install the Simonrim file and rename it to **[NoDelete] [18] Lawless - Simonrim Patch**
   - Download and install the CC AA Integration Patch file and rename to **[NoDelete] [19] Lawless - CC AA Integration Patch**
-  - Download and install the Simonrim Dark Elf Voices Patch file and rename to **[NoDelete] [20] Lawless - Simonrim Dark Elf Voices Patch**
-  - Download and install the Simonrim Kachunk Patch file and rename to **[NoDelete] [21] Lawless - Simonrim Kachunk Patch**
-  - Download and install the Tamrielic Distribution Patch file and rename to **[NoDelete] [22] Lawless - Tamrielic Distribution Patch**
+  - Download and install the Simonrim Dark Elf Voices Patch file and rename it to **[NoDelete] [20] Lawless - Simonrim Dark Elf Voices Patch**
+  - Download and install the Simonrim Kachunk Patch file and rename it to **[NoDelete] [21] Lawless - Simonrim Kachunk Patch**
+  - Download and install the Tamrielic Distribution Patch file and rename it to **[NoDelete] [22] Lawless - Tamrielic Distribution Patch**
+  - Download and install the Expanded Tamrielic Distribution Patch and rename it to **[NoDelete] [23] Lawless Expanded - Tamrielic Distribution Patch**
 
 15.) [Scarcity SE - Less Loot Mod](https://www.nexusmods.com/skyrimspecialedition/mods/8647) reduces the amount of loot found in the world and reduces the amount of enchanted items held by merchants.
-  - Download and install the main file, choose 4x Loot Rarity and 4x Merchant Item Rarity in the FOMOD, and rename it to **[NoDelete] [23] Scarcity SE - Less Loot Mod**
+  - Download and install the main file, choose 4x Loot Rarity and 4x Merchant Item Rarity in the FOMOD, and rename it to **[NoDelete] [24] Scarcity SE - Less Loot Mod**
 
 16.) [Septimus - Hardcore Addon INI](https://github.com/Ender108/SeptimusHardcoreAddon/blob/main/Septimus%20-%20Hardcore%20Addon%20INI.7z) changes the default uncapper settings: No more perks after level 50. Health, Magicka, and Stamina gain on level up is reduced from 10 points to 5 points after level 50. No carryweight gain on level up.
-  - Download and install from archive in the top left of Mod Organizer 2 and rename to **[NoDelete] [24] Septimus - Hardcore Addon INI**
+  - Download and install from archive in the top left of Mod Organizer 2 and rename to **[NoDelete] [25] Septimus - Hardcore Addon INI**
 
 17.) [Septimus - Hardcore Addon Patch](https://github.com/Ender108/SeptimusHardcoreAddon/blob/main/Septimus%20-%20Hardcore%20Addon%20Patch.7z) ensures compatibility with the rest of the Septimus modlist.
- - Download and install from archive in the top left of Mod Organizer 2 and rename to **[NoDelete] [25] Septimus - Hardcore Addon Patch**
+ - Download and install from archive in the top left of Mod Organizer 2 and rename to **[NoDelete] [26] Septimus - Hardcore Addon Patch**
 
 
 # Post-Install

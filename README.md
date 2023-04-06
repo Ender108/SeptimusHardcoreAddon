@@ -65,17 +65,14 @@ Create a new separator and name it **[NoDelete] Septimus - Hardcore Addon**. Pla
   - ![image](https://user-images.githubusercontent.com/19737384/230476457-dedea5ca-76d1-4041-bee7-9c9567981738.png)
   - Click install, then rename the mod to **[NoDelete] [19] Lawless - Patches**
 
-
-
-
 15.) [Simply Reduced Loot](https://www.nexusmods.com/skyrimspecialedition/mods/34217) reduces loot in chests and on enemies by 33%.
-  - Download and install the main file, click next then click install in the FOMOD, and rename it to **[NoDelete] [24] Simply Reduced Loot**
+  - Download and install the main file, click next then click install in the FOMOD, and rename it to **[NoDelete] [20] Simply Reduced Loot**
 
 16.) [Septimus - Hardcore Addon INI](https://github.com/Ender108/SeptimusHardcoreAddon/blob/main/Septimus%20-%20Hardcore%20Addon%20INI.7z) changes the default uncapper settings: No more perks after level 50. Health, Magicka, and Stamina gain on level up is reduced from 10 points to 5 points after level 50. No carryweight gain on level up.
-  - Download and install from archive in the top left of Mod Organizer 2 and rename to **[NoDelete] [25] Septimus - Hardcore Addon INI**
+  - Download and install from archive in the top left of Mod Organizer 2 and rename to **[NoDelete] [21] Septimus - Hardcore Addon INI**
 
 17.) [Septimus - Hardcore Addon Patch](https://github.com/Ender108/SeptimusHardcoreAddon/blob/main/Septimus%20-%20Hardcore%20Addon%20Patch.7z) ensures compatibility with the rest of the Septimus modlist.
- - Download and install from archive in the top left of Mod Organizer 2 and rename to **[NoDelete] [26] Septimus - Hardcore Addon Patch**
+ - Download and install from archive in the top left of Mod Organizer 2 and rename to **[NoDelete] [22] Septimus - Hardcore Addon Patch**
 
 
 # Post-Install

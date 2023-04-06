@@ -58,11 +58,15 @@ Create a new separator and name it **[NoDelete] Septimus - Hardcore Addon**. Pla
   - Download and install the main file and rename to **[NoDelete] [16] Lawless - A Bandit Overhaul**
   - Download and install the Expanded Enemy Coverage Addon file and rename it to **[NoDelete] [17] Lawless - Expanded Enemy Coverage Addon**
   - Download and install the Simonrim file and rename it to **[NoDelete] [18] Lawless - Simonrim Patch**
-  - Download and install the CC AA Integration Patch file and rename to **[NoDelete] [19] Lawless - CC AA Integration Patch**
-  - Download and install the Simonrim Dark Elf Voices Patch file and rename it to **[NoDelete] [20] Lawless - Simonrim Dark Elf Voices Patch**
-  - Download and install the Simonrim Kachunk Patch file and rename it to **[NoDelete] [21] Lawless - Simonrim Kachunk Patch**
-  - Download and install the Tamrielic Distribution Patch file and rename it to **[NoDelete] [22] Lawless - Tamrielic Distribution Patch**
-  - Download and install the Expanded Tamrielic Distribution Patch and rename it to **[NoDelete] [23] Lawless Expanded - Tamrielic Distribution Patch**
+  - Download the Patch FOMOD and select the options as follows:
+  - ![image](https://user-images.githubusercontent.com/19737384/230476124-61d36965-ceeb-4d24-9abf-1d6e1d13847f.png)
+  - ![image](https://user-images.githubusercontent.com/19737384/230476260-11e1e8cc-7069-4ca0-b337-0ebb17d4078e.png)
+  - ![image](https://user-images.githubusercontent.com/19737384/230476349-e5d533e5-9763-42b0-857f-21111ec760f9.png)
+  - ![image](https://user-images.githubusercontent.com/19737384/230476457-dedea5ca-76d1-4041-bee7-9c9567981738.png)
+  - Click install, then rename the mod to **[NoDelete] [19] Lawless - Patches**
+
+
+
 
 15.) [Simply Reduced Loot](https://www.nexusmods.com/skyrimspecialedition/mods/34217) reduces loot in chests and on enemies by 33%.
   - Download and install the main file, click next then click install in the FOMOD, and rename it to **[NoDelete] [24] Simply Reduced Loot**

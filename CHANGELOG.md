@@ -1,4 +1,9 @@
-# Changelog - Septimus Hardcore Addon 
+# Changelog - Septimus Hardcore Addon
+
+## Version 1.5
+This update is save safe.
+### Updated
+- Lawless Patch FOMOD installation instructions for latest update 1.2.1
 
 ## Version 1.4
 This update is technically save safe but strongly recommend a new game due to loot chance changes.

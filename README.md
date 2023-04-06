@@ -64,7 +64,7 @@ Create a new separator and name it **[NoDelete] Septimus - Hardcore Addon**. Pla
   - Download and install the Tamrielic Distribution Patch file and rename it to **[NoDelete] [22] Lawless - Tamrielic Distribution Patch**
   - Download and install the Expanded Tamrielic Distribution Patch and rename it to **[NoDelete] [23] Lawless Expanded - Tamrielic Distribution Patch**
 
-15.) [Simply Reduced Loot](https://www.nexusmods.com/skyrimspecialedition/mods/34217) Simply reduces loot in chests and on enemies.
+15.) [Simply Reduced Loot](https://www.nexusmods.com/skyrimspecialedition/mods/34217) reduces loot in chests and on enemies by 33%.
   - Download and install the main file, click next then click install in the FOMOD, and rename it to **[NoDelete] [24] Simply Reduced Loot**
 
 16.) [Septimus - Hardcore Addon INI](https://github.com/Ender108/SeptimusHardcoreAddon/blob/main/Septimus%20-%20Hardcore%20Addon%20INI.7z) changes the default uncapper settings: No more perks after level 50. Health, Magicka, and Stamina gain on level up is reduced from 10 points to 5 points after level 50. No carryweight gain on level up.

@@ -78,7 +78,7 @@ Create a new separator and name it **[NoDelete] Septimus - Hardcore Addon**. Pla
 # Post-Install
 
 The left pane of Mod Organizer 2 should look like this after installation.
-![image](https://user-images.githubusercontent.com/19737384/230396158-1f375dba-92b9-4125-ab2c-f090cd835842.png)
+![image](https://user-images.githubusercontent.com/19737384/230479257-82d8ce33-4511-435a-9d29-67bc89753a8c.png)
 
 The right pane of Mod Organizer 2 should look like this after installation. Load all of plugins from this addon **ABOVE** DynDOLOD.esp.
 ![image](https://user-images.githubusercontent.com/19737384/230477101-730def23-0476-4f6c-977e-6c2b2842737f.png)

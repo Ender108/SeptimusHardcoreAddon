@@ -6,7 +6,7 @@
 
 This is an optional addon for GuitarNinja's Septimus modlist that will greatly increase the difficulty.
 
-Works with the current 1.6.0 version of Septimus.
+Works with the current 1.6.1 version of Septimus.
 
 This addon requires a **NEW SAVE**. It will not work properly if you install it mid-playthrough of base Septimus.
 

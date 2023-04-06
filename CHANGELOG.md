@@ -1,5 +1,14 @@
 # Changelog - Septimus Hardcore Addon 
 
+## Version 1.4
+This update is technically save safe but strongly recommend a new game due to loot chance changes.
+### Added
+- Simply Reduced Loot
+### Removed
+- Scarcity - Less Loot Mod
+### Updated
+- Septimus - Hardcore Addon Patch
+
 ## Version 1.3
 This update is save safe.
 ### Updated

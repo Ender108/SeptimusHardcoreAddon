@@ -59,7 +59,7 @@ Create a new separator and name it **[NoDelete] Septimus - Hardcore Addon**. Pla
   - Download and install the Expanded Enemy Coverage Addon file and rename it to **[NoDelete] [17] Lawless - Expanded Enemy Coverage Addon**
   - Download and install the Simonrim file and rename it to **[NoDelete] [18] Lawless - Simonrim Patch**
   - Download the Patch FOMOD and select the options as follows:
-  - ![image](https://user-images.githubusercontent.com/19737384/230476124-61d36965-ceeb-4d24-9abf-1d6e1d13847f.png)
+  - ![image](https://user-images.githubusercontent.com/19737384/230799494-00058245-24f4-421c-a275-73d4eafa3924.png)
   - ![image](https://user-images.githubusercontent.com/19737384/230476260-11e1e8cc-7069-4ca0-b337-0ebb17d4078e.png)
   - ![image](https://user-images.githubusercontent.com/19737384/230476349-e5d533e5-9763-42b0-857f-21111ec760f9.png)
   - ![image](https://user-images.githubusercontent.com/19737384/230476457-dedea5ca-76d1-4041-bee7-9c9567981738.png)

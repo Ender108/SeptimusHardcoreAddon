@@ -115,6 +115,8 @@ The right pane of Mod Organizer 2 should look like this after installation. Load
 - Simply Reduced Loot.esp
 - Simply Reduced Loot - Loot Items.esp
 - Septimus - Hardcore Addon Patch.esp
+- DynDOLOD.esp
+- Occlusion.esp
 
 # Finish
 And that's it! Go enjoy dying many times over.

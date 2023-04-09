@@ -19,19 +19,19 @@ Create a new separator and name it **[NoDelete] Septimus - Hardcore Addon**. Pla
 2.) [Locational Encounter Zones](https://www.nexusmods.com/skyrimspecialedition/mods/85212) is a SKSE plugin which makes enemies guarding a location the same level as the ones inside.
   - Download and install the main file and rename it to **[NoDelete] [02] Locational Encounter Zones**
 
-3.) [King-Priest - Enhanced Dragon Priests](https://www.nexusmods.com/skyrimspecialedition/mods/59652) makes encounters with Dragon Priests a much more challenging experience balanced for high-level play. 
-  - Download and install the main file and rename it to **[NoDelete] [03] King-Priest - Enhanced Dragon Priests**
-  - Download and install the Abyss patch and rename it to **[NoDelete] [04] King-Priest - Abyss Add-On**
-  - Download and install the Wyrmstooth patch and rename it to **[NoDelete] [05] King-Priest - Wyrmstooth Patch**
+3.) [Cannibal Draugr on Solstheim](https://www.nexusmods.com/skyrimspecialedition/mods/21238) makes Solstheim Draugr distinct from those on the mainland, reflecting their eternal cannibalism as described in TES3: Bloodmoon.
+  - Download and install the main file and rename it to **[NoDelete] [03] Cannibal Draugr on Solstheim**
 
-4.) [Cannibal Draugr on Solstheim](https://www.nexusmods.com/skyrimspecialedition/mods/21238) makes Solstheim Draugr distinct from those on the mainland, reflecting their eternal cannibalism as described in TES3: Bloodmoon.
-  - Download and install the main file and rename it to **[NoDelete] [06] Cannibal Draugr on Solstheim**
+4.) [The Dragon Cult - A Draugr Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/81422) is a comprehensive overhaul for Draugr, the undead creatures mostly found in Nordic Crypts around Skyrim, protecting ancient treasures and their lords. With it, Draugr are more challenging and varied than even before.
+  - Download and install the main file, click install in the FOMOD, and rename it to **[NoDelete] [04] The Dragon Cult - A Draugr Overhaul**
 
-5.) [The Dragon Cult - A Draugr Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/81422) is a comprehensive overhaul for Draugr, the undead creatures mostly found in Nordic Crypts around Skyrim, protecting ancient treasures and their lords. With it, Draugr are more challenging and varied than even before.
-  - Download and install the main file, click install in the FOMOD, and rename it to **[NoDelete] [07] The Dragon Cult - A Draugr Overhaul**
+5.) [The Dragon Cult - Expanded](https://www.nexusmods.com/skyrimspecialedition/mods/88174) expands the enemies introduced by The Dragon Cult to other mods, including adding new variants for the "reskinned draugr" enemies added by other mods. 
+- Download the main file, check The Cause and Bruma under SimonRim Addons then click install in the FOMOD, and rename it to **[NoDelete] [05] The Dragon Cult - Expanded**
 
-6.) [The Dragon Cult - Expanded](https://www.nexusmods.com/skyrimspecialedition/mods/88174) expands the enemies introduced by The Dragon Cult to other mods, including adding new variants for the "reskinned draugr" enemies added by other mods. 
-- Download the main file, check The Cause and Bruma under SimonRim Addons then click install in the FOMOD, and rename it to **[NoDelete] [08] The Dragon Cult - Expanded**
+6.) [King-Priest - Enhanced Dragon Priests](https://www.nexusmods.com/skyrimspecialedition/mods/59652) makes encounters with Dragon Priests a much more challenging experience balanced for high-level play. 
+  - Download and install the main file and rename it to **[NoDelete] [06] King-Priest - Enhanced Dragon Priests**
+  - Download and install the Abyss patch and rename it to **[NoDelete] [07] King-Priest - Abyss Add-On**
+  - Download and install the Wyrmstooth patch and rename it to **[NoDelete] [08] King-Priest - Wyrmstooth Patch**
 
 7.) [Dragon War - A Dragon Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/51310) is a complete and lightweight overhaul of Skyrim’s dragons, designed to improve the overall experience of dragon fights.
   - Download the main file, click install in the FOMOD, and rename it to **[NoDelete] [09] Dragon War - A Dragon Overhaul**

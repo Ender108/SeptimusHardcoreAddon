@@ -68,7 +68,7 @@ Create a new separator and name it **[NoDelete] Septimus - Hardcore Addon**. Pla
 15.) [Simply Reduced Loot](https://www.nexusmods.com/skyrimspecialedition/mods/34217) reduces loot in chests and on enemies by 33%.
   - Download and install the main file, click next then click install in the FOMOD, and rename it to **[NoDelete] [20] Simply Reduced Loot**
 
-16.) [Septimus - Hardcore Addon INI](https://github.com/Ender108/SeptimusHardcoreAddon/blob/main/Septimus%20-%20Hardcore%20Addon%20INI.7z) changes the default uncapper settings: No more perks after level 50. Health, Magicka, and Stamina gain on level up is reduced from 10 points to 5 points after level 50. No carryweight gain on level up.
+16.) [Septimus - Hardcore Addon INI](https://github.com/Ender108/SeptimusHardcoreAddon/blob/main/Septimus%20-%20Hardcore%20Addon%20INI.7z) changes the default uncapper settings: You get 1 extra perk on level up at levels 2, 10, 20, 30, 40, and 50. No more perks after level 50. Health, Magicka, and Stamina gain on level up is reduced from 10 points to 5 points after level 50. No carryweight gain on level up.
   - Download and install from archive in the top left of Mod Organizer 2 and rename to **[NoDelete] [21] Septimus - Hardcore Addon INI**
 
 17.) [Septimus - Hardcore Addon Patch](https://github.com/Ender108/SeptimusHardcoreAddon/blob/main/Septimus%20-%20Hardcore%20Addon%20Patch.7z) ensures compatibility with the rest of the Septimus modlist.
@@ -78,7 +78,28 @@ Create a new separator and name it **[NoDelete] Septimus - Hardcore Addon**. Pla
 # Post-Install
 
 The left pane of Mod Organizer 2 should look like this after installation.
-![image](https://user-images.githubusercontent.com/19737384/230799629-3b4915e5-88ef-4ade-af73-c9fb2e796110.png)
+- [NoDelete] [01] No Saving in Combat
+- [NoDelete] [02] Locational Encounter Zones
+- [NoDelete] [03] Cannibal Draugr on Solstheim
+- [NoDelete] [04] The Dragon Cult - A Draugr Overhaul
+- [NoDelete] [05] The Dragon Cult - Expanded
+- [NoDelete] [06] King-Priest - Enhanced Dragon Priests
+- [NoDelete] [07] King-Priest - Abyss Add-On
+- [NoDelete] [08] King-Priest - Wyrmstooth Patch
+- [NoDelete] [09] Dragon War - A Dragon Overhaul
+- [NoDelete] [10] Don't Eat Spell Tomes
+- [NoDelete] [11] Challenging Spell Learning
+- [NoDelete] [12] Challenging Spell Learning Alternate Animation
+- [NoDelete] [13] Arena - An Encounter Zone Overhaul
+- [NoDelete] [14] Legion - A Bruma Encounter Zone Overhaul
+- [NoDelete] [15] Enemy Resistance Tweaks
+- [NoDelete] [16] Lawless - A Bandit Overhaul
+- [NoDelete] [17] Lawless - Expanded Enemy Coverage
+- [NoDelete] [18] Lawless - Simonrim Patch
+- [NoDelete] [19] Lawless - Patches
+- [NoDelete] [20] Simply Reduced Loot
+- [NoDelete] [21] Septimus - Hardcore Addon INI
+- [NoDelete] [22] Septimus - Hardcore Addon Patch
 
 The right pane of Mod Organizer 2 should look like this after installation. Load all of plugins from this addon **ABOVE** DynDOLOD.esp.
 - NoSaveInCombat.esp

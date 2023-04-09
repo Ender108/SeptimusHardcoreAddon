@@ -60,9 +60,9 @@ Create a new separator and name it **[NoDelete] Septimus - Hardcore Addon**. Pla
   - Download and install the Simonrim file and rename it to **[NoDelete] [18] Lawless - Simonrim Patch**
   - Download the Patch FOMOD and select the options as follows:
   - ![image](https://user-images.githubusercontent.com/19737384/230799494-00058245-24f4-421c-a275-73d4eafa3924.png)
-  - ![image](https://user-images.githubusercontent.com/19737384/230476260-11e1e8cc-7069-4ca0-b337-0ebb17d4078e.png)
+  - ![image](https://user-images.githubusercontent.com/19737384/230799541-2fd8de53-bc27-42c5-93ab-f15f5f78745a.png)
   - ![image](https://user-images.githubusercontent.com/19737384/230476349-e5d533e5-9763-42b0-857f-21111ec760f9.png)
-  - ![image](https://user-images.githubusercontent.com/19737384/230476457-dedea5ca-76d1-4041-bee7-9c9567981738.png)
+  - ![image](https://user-images.githubusercontent.com/19737384/230799590-48e4e1a8-eee3-405a-9035-ea51788fe464.png)
   - Click install, then rename the mod to **[NoDelete] [19] Lawless - Patches**
 
 15.) [Simply Reduced Loot](https://www.nexusmods.com/skyrimspecialedition/mods/34217) reduces loot in chests and on enemies by 33%.

@@ -79,7 +79,7 @@ Create a new separator and name it **[NoDelete] Septimus - Hardcore Addon**. Pla
 
 The left pane of Mod Organizer 2 should look like this after installation.
 <p align="center">
-// [NoDelete] Septimus - Hardcore Addon
+[NoDelete] Septimus - Hardcore Addon
 </p>
 - [NoDelete] [01] No Saving in Combat
 - [NoDelete] [02] Locational Encounter Zones

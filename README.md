@@ -82,7 +82,7 @@ The left pane of Mod Organizer 2 should look like this after installation.
 
 The right pane of Mod Organizer 2 should look like this after installation. Load all of plugins from this addon **ABOVE** DynDOLOD.esp.
 - NoSaveInCombat.esp
-= ogCannibalDraugr.esp
+- ogCannibalDraugr.esp
 - DragonCultDraugr.esp
 - DragonCultDraugrUSSEP.esp
 - DragonCultDraugrWyrmstooth.esp

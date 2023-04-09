@@ -81,6 +81,40 @@ The left pane of Mod Organizer 2 should look like this after installation.
 ![image](https://user-images.githubusercontent.com/19737384/230799629-3b4915e5-88ef-4ade-af73-c9fb2e796110.png)
 
 The right pane of Mod Organizer 2 should look like this after installation. Load all of plugins from this addon **ABOVE** DynDOLOD.esp.
-![image](https://user-images.githubusercontent.com/19737384/230799680-5d6ca942-a224-4997-b7e6-559f28c6df14.png)
+NoSaveInCombat.esp
+ogCannibalDraugr.esp
+DragonCultDraugr.esp
+DragonCultDraugrUSSEP.esp
+DragonCultDraugrWyrmstooth.esp
+DragonCultDraugrSimonRim.esp
+DragonCultBruma.esp
+DragonCultBrumaSimonRim.esp
+DragonCultRielle.esp
+DragonCultRielleSimonRim.esp
+King-Priest.esp
+King-Priest - Abyss Addon.esp
+King-Priest - Wyrmstooth Patch.esp
+DragonWar.esp
+DragonWarAudioOverhaulSkyrim.esp
+DragonWarWyrmstooth.esp
+challenging_spell_learning.esp
+Arena.esp
+Legion - Bruma EZs (Mid-game) [esl flagged].esp
+hokoron.esp
+Bandit War.esp
+Bandit War - Expanded Enemy Coverage.esp
+Bandit War - Simonrim.esp
+Bandit War - CC AA Distribution.esp
+Bandit War Simonrim - Dark Elf Voices.esp
+Bandit War Simonrim - Kachunk.esp
+Bandit War - Tamrielic Distribution.esp
+Bandit War Expanded - Tamrielic Distribution.esp
+Bandit War - Fearsome Fists.esp
+Bandit War - LROA Sea Elf.esp
+Bandit War - Wyrmstooth.esp
+Simply Reduced Loot.esp
+Simply Reduced Loot - Loot Items.esp
+Septimus - Hardcore Addon Patch.esp
 
+# Finish
 And that's it! Go enjoy dying many times over.

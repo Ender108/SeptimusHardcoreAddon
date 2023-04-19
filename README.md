@@ -1,4 +1,4 @@
-# Septimus - Hardcore Addon
+# Septimus - Hardcore Addon (NO LONGER SUPPORTED. ASCENDANCE IS MY MODLIST BASED ON THIS ADDON)
 
 [Changelog](https://github.com/Ender108/SeptimusHardcoreAddon/blob/main/CHANGELOG.md)
 
